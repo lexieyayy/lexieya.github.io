@@ -9,28 +9,28 @@ window.featuredSets = [];
 window.isOwnerLoggedIn = false;
 
 const subtitles = [
-    "la peace man",
-    "we ball",
-    "taking it easy",
-    "nothing serious",
-    "we moving",
-    "putting in work",
-    "by the 9 we tweaking",
-    "for the archives",
-    "whats up yo..",
-    "what is this shit even",
-    "probably should be training",
-    "what am i doing bro",
-    "could've been worse",
-    "don't ask",
-    "i fw furries",
-    "just keeping track",
-    "another one for the books",
-    "tsb activities",
-    "numbers unfortunately",
+    "meow",
+    "hai ;3",
+    "lalala",
+    "you stalk mee?",
+    "me........",
+    "haaallooooo ;3",
+    "yayayaya",
+    "nonono",
+    ";3",
+    "the silliest....",
+    "haaiaiaiai",
+    "i suck okay",
+    "im so bad...",
+    "kagura sucks at the game...",
+    "i luv my friens...",
+    "im evil",
+    "im scary.. right..",
+    "fukc tsb......",
+    "i like making avatars a lot did you know that.. well now you know.. haha ;3",
     "yeah we did this",
     "professional keyboard masher",
-    "fishnets>>thigh socks"
+    "hiiiiiiiii...."
 ];
 
 document.addEventListener("DOMContentLoaded", () => {
